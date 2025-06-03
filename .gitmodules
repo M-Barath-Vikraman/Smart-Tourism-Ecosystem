@@ -1,0 +1,3 @@
+[submodule "SII-Index-Prediction"]
+	path = SII-Index-Prediction
+	url = https://github.com/M-Barath-Vikraman/SII-Index-Prediction.git
